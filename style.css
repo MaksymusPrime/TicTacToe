@@ -5,12 +5,12 @@
 }
 
 :root {
-    --green: #98f24e;
+    --yellow: #f3eb0b;
     --winning-blocks: #2d414b;
 }
 
 body {
-    color: var(--green);
+    color: var(--yellow);
     font-family: 'Finger Paint', cursive;
 }
 h1 {
@@ -55,9 +55,9 @@ button {
     margin-top: 20px;
     padding: 10px 20px;
     border-radius: 10px;
-    background-color: var(--green);
+    background-color: var(--yellow);
     color: #333;
-    border-color: var(--green);
+    border-color: var(--yellow);
     font-size: 18px;
     transition: 200ms transform;
     font-weight: 600;
